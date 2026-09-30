@@ -61,4 +61,4 @@ User interface concepts and digital product designs.
 
 ## Contact
 
-For professional opportunities, please contact me through my GitHub profile or professional networking profile.
+For professional opportunities, please get in touch with me at https://github.com/RomeoFeukeu or via my professional networking profile.
