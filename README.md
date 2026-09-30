@@ -1,32 +1,64 @@
-# design-portfolio
-# Custom Apparel Design
+# Mesack Feukeu — Design & Technology Portfolio
 
-## Overview
+Welcome to my professional portfolio.
 
-Custom apparel design created as part of my graphic design and apparel production work.
+I am a Software Engineering student at Western Governors University with an Associate of Applied Science in Graphic Design and Web Design/Front-End Development from Minneapolis College.
 
-## Project Focus
+This portfolio showcases selected work across graphic design, branding, apparel design, web design, UI design, and technology.
 
-* Graphic composition
-* Typography
-* Color and visual hierarchy
-* Apparel placement
-* Print-ready design preparation
+## Areas of Focus
 
-## Tools & Techniques
+* Graphic Design
+* Web Design
+* Front-End Development
+* UI Design
+* Branding & Visual Identity
+* Apparel Design
+* Software Development
 
-* Graphic design software
-* Digital illustration
-* Print production
-* Apparel mockup development
+## Education
 
-## Deliverables
+**Western Governors University**
+Bachelor of Science in Software Engineering — In Progress
 
-* Front apparel design
-* Production artwork
-* Apparel mockup
+**Minneapolis College**
+Associate of Applied Science — Graphic Design & Web Design/Front-End Development
+GPA: 3.85
 
-## Skills Demonstrated
+## Technical Skills
 
-Graphic Design • Typography • Composition • Apparel Design • Print Production
+* HTML
+* CSS
+* JavaScript
+* Python
+* Git
+* GitHub
+* Visual Studio Code
+* Adobe Creative Tools
+* Web & Graphic Design
 
+## Portfolio Categories
+
+### Branding
+
+Logos, visual identity, and brand design projects.
+
+### Apparel Design
+
+T-shirt, hoodie, and other apparel graphics.
+
+### Graphic Design
+
+Posters, flyers, marketing materials, and digital graphics.
+
+### Web Design
+
+Website layouts, responsive design, and front-end projects.
+
+### UI Design
+
+User interface concepts and digital product designs.
+
+## Contact
+
+For professional opportunities, please contact me through my GitHub profile or professional networking profile.
